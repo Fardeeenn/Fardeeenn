@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shujaur Rahman Haadi</h1>
+<h1 align="center">Hi, I'm Fardeen Ahmad Khan</h1>
 <p align="center">
   <em>Student Developer • AI/ML • Backend Development </em>
 </p>
@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm a student developer who enjoys learning by doing — building projects, experimenting with ideas, and understanding how systems work beneath the abstractions.
+I'm a student developer who enjoys learning by — building projects, experimenting with ideas, and understanding how systems work beneath the abstractions.
 Right now, I'm building my foundation in **Machine Learning, Backend Development, Data Structures & Algorithms, and Software Engineering**.
 
 ---
@@ -49,13 +49,6 @@ Right now, I'm building my foundation in **Machine Learning, Backend Development
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-### Little Thought
-
-> “Our intelligence is what makes us human, and AI is an extension of that quality.”
-> — Geoffrey Hinton
 
 ---
 
