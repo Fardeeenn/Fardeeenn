@@ -45,7 +45,7 @@ Right now, I'm building my foundation in **Machine Learning, Backend Development
 ### Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shujaur-rahman-haadi-00188a325/" target="_blank">
+  <a href="https://www.linkedin.com/in/fardeenahmadkhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
